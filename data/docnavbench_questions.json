@@ -1,0 +1,262 @@
+[
+  {
+    "id": "FA-01",
+    "text": "If the borrower's two credit ratings differ by more than one notch, which pricing level applies — and in which direction does the tie-break rule operate?",
+    "difficulty": "high"
+  },
+  {
+    "id": "FA-02",
+    "text": "What is the maximum permitted aggregate debt of the borrower's subsidiaries, and is there an alternative threshold expressed in a currency other than US dollars?",
+    "difficulty": "high"
+  },
+  {
+    "id": "FA-03",
+    "text": "What sustainability performance indicators govern the ESG pricing adjustment, what is the maximum spread movement they can generate in either direction, and does the amending agreement alter any of those indicators or adjustment amounts?",
+    "difficulty": "high"
+  },
+  {
+    "id": "FA-04",
+    "text": "What is the cross-default threshold in this agreement, and does a payment default on debt incurred at a project subsidiary level trigger the cross-default provision — or only defaults on corporate-level debt?",
+    "difficulty": "high"
+  },
+  {
+    "id": "FA-05",
+    "text": "If an Event of Default occurs while letters of credit are outstanding, what specifically happens to those letters of credit — and what provision of the agreement triggers that consequence?",
+    "difficulty": "high"
+  },
+  {
+    "id": "FA-06",
+    "text": "What lender consent threshold is required to extend the maturity date, and can the borrower add new lenders to increase the total facility commitment without the consent of existing lenders?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FA-07",
+    "text": "Following an Event of Default and acceleration, in what order are recoveries applied — and specifically, where do secured hedging obligations and treasury management obligations rank relative to principal repayment?",
+    "difficulty": "high"
+  },
+  {
+    "id": "FA-08",
+    "text": "Which categories of amendment require the unanimous consent of all lenders rather than a simple majority, and does the agreement permit the borrower to replace a dissenting lender in order to achieve a majority-only amendment over that lender's objection?",
+    "difficulty": "high"
+  },
+  {
+    "id": "FA-09",
+    "text": "Which lenders under this facility are subject to the bail-in acknowledgement, what write-down and conversion powers does that acknowledgement contemplate, and does a bail-in of a lender affect the calculation of the voting threshold for majority lender consent?",
+    "difficulty": "high"
+  },
+  {
+    "id": "FA-10",
+    "text": "Under what conditions does the administrative agent have the right to recover an erroneous payment already distributed to a lender, and is there any time limit on the exercise of that right?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "FA-11",
+    "text": "The agreement contains a guarantee from the borrower entity. What obligations does that guarantee cover, and in whose favour does it operate?",
+    "difficulty": "high"
+  },
+  {
+    "id": "FA-12",
+    "text": "What specific provisions of the original facility were modified by the amending agreement, and what representations did the borrower make as a condition to the amendment becoming effective?",
+    "difficulty": "high"
+  },
+  {
+    "id": "FA-13",
+    "text": "Following the amending agreement, what is the current maturity date of the facility, and does the amendment use the extension mechanism already contained in the original agreement or does it override that mechanism directly?",
+    "difficulty": "high"
+  },
+  {
+    "id": "LP-01",
+    "text": "Can the partnership retain proceeds from the sale or refinancing of an asset for reinvestment rather than distributing them, and is the answer different for bridge financing proceeds compared to ordinary sale or refinancing proceeds?",
+    "difficulty": "high"
+  },
+  {
+    "id": "LP-02",
+    "text": "For a limited partner admitted at a subsequent closing who increases their commitment, what is the base amount on which the priority return is calculated — and are the interest adjustment payments made at the subsequent closing included in or excluded from that base?",
+    "difficulty": "high"
+  },
+  {
+    "id": "LP-03",
+    "text": "If the general partner releases a portion of a limited partner's unfunded commitment, is the commitment automatically reduced by that amount, and does the release have any effect on the management fee calculation?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "LP-04",
+    "text": "Is the preferred return hurdle calculated on a deal-by-deal basis or across the fund as a whole, and does unrealised appreciation in portfolio assets factor into that calculation or only contributed capital?",
+    "difficulty": "high"
+  },
+  {
+    "id": "LP-05",
+    "text": "What specific items reduce a limited partner's unreturned capital account balance, and which payments that flow through the partnership — specifically the interest adjustment for subsequent closers and the priority return adjustment — explicitly do not reduce it?",
+    "difficulty": "high"
+  },
+  {
+    "id": "LP-06",
+    "text": "What conditions must be satisfied before the general partner may make an in-kind distribution to limited partners, who determines the valuation of the distributed property, and must it be distributed on a pro-rata basis among all partners?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "LP-07",
+    "text": "If a limited partner fails to fund a capital call by the due date, what is the cure period, what remedies are available to the general partner after the cure period expires, and how does a cure within that period affect the defaulting partner's priority return calculation?",
+    "difficulty": "high"
+  },
+  {
+    "id": "LP-09",
+    "text": "What restrictions does the partnership agreement place on the transfer of a limited partner's interest, does the general partner hold a consent right over any transfer, and is there a right of first refusal that must be satisfied before a transfer to a third party?",
+    "difficulty": "high"
+  },
+  {
+    "id": "LP-11",
+    "text": "After the end of the commitment period, for what purposes may the general partner still issue capital call notices to limited partners, and is there a cap on the aggregate amount that may be called for follow-on investments as distinct from fund expenses and liabilities?",
+    "difficulty": "high"
+  },
+  {
+    "id": "LP-12",
+    "text": "What is the limited partner consent threshold required for the general partner to extend the term of the partnership beyond its stated termination date, and can the general partner extend the term unilaterally without any limited partner approval?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "LP-13",
+    "text": "What limit, if any, does the partnership agreement place on the use of subscription line credit facilities at the fund level, and on what assets may such borrowing be secured?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "LP-14",
+    "text": "What is the general partner's clawback obligation at the wind-up of the fund, against whom specifically is it enforceable, and is there any cap or time limitation on the obligation?",
+    "difficulty": "high"
+  },
+  {
+    "id": "LP-08",
+    "text": "What restrictions does the partnership agreement place on investments that would generate unrelated business taxable income for tax-exempt limited partners — and does the side letter provide any additional protection or carve-out on this point?",
+    "difficulty": "high"
+  },
+  {
+    "id": "LP-10",
+    "text": "Does the side letter between the investor and the general partner transfer automatically to a purchaser of the investor's limited partner interest, or is it personal to the original investor — and specifically, does the most-favoured-nation right transfer with the interest?",
+    "difficulty": "high"
+  },
+  {
+    "id": "LP-15",
+    "text": "Under the side letter, does the investor's reservation of sovereign immunity release it from its obligation to fund capital calls, and where in the two documents is that interaction between the immunity reservation and the funding obligation explicitly addressed?",
+    "difficulty": "high"
+  },
+  {
+    "id": "LP-16",
+    "text": "The side letter references a most-favoured-nation provision. Even where the commercial terms of that provision are redacted, what is the procedural mechanism by which the investor would elect the benefit of more favourable terms offered to another investor?",
+    "difficulty": "high"
+  },
+  {
+    "id": "LP-17",
+    "text": "What information about management fees and carried interest distributions is the general partner obligated to provide to the investor under the side letter, and does the partnership agreement's general confidentiality provision restrict disclosure of that information to other limited partners?",
+    "difficulty": "high"
+  },
+  {
+    "id": "SP-01",
+    "text": "What is the exact deadline after which information posted to the electronic data room is no longer considered to have been made available for purposes of the seller's representations — and in which time zone does that cutoff apply?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SP-02",
+    "text": "Which representations and warranties are subject to a knowledge qualifier, what standard of knowledge applies, and whose knowledge counts — the entity itself or named individuals?",
+    "difficulty": "high"
+  },
+  {
+    "id": "SP-03",
+    "text": "What survival period applies to the intellectual property representations, and is that period the same as or different from the general survival period that applies to most other representations and warranties?",
+    "difficulty": "high"
+  },
+  {
+    "id": "SP-04",
+    "text": "Does this agreement contain a pro-sandbagging or anti-sandbagging provision — that is, does the buyer's pre-closing knowledge of a representation breach bar or preserve its post-closing indemnification claim?",
+    "difficulty": "high"
+  },
+  {
+    "id": "SP-05",
+    "text": "How is working capital defined for purposes of the purchase price adjustment, who prepares the closing statement, and what is the dispute resolution mechanism if the parties cannot agree on the closing working capital figure?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SP-06",
+    "text": "Under what conditions may either party terminate the agreement after signing, and is there a cure period before a termination right may be exercised for the other party's breach of covenant?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SP-07",
+    "text": "What does the agreement provide regarding the treatment of unvested equity awards held by transferring employees at closing — does the seller retain the liability, does the buyer assume it, or are the awards cashed out?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SP-08",
+    "text": "Does the seller retain any licence to the target company's intellectual property, technology, or content library after closing, and does the agreement require either party to enter into a separate intellectual property licence or transition services agreement?",
+    "difficulty": "high"
+  },
+  {
+    "id": "SP-09",
+    "text": "How is the scope of the seller's non-compete obligation defined — what business activities are covered, for how long does the restriction run, and does it apply globally or within a defined geography?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SP-10",
+    "text": "Does the agreement contain a non-solicitation covenant preventing the seller from hiring employees who transfer to the buyer, and if so what is the duration and are there any carve-outs for general advertising or employees who approach the seller independently?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SP-11",
+    "text": "How does the agreement define the term used for taxes for purposes of the seller's tax representations — does the definition explicitly capture taxes imposed under the laws of all relevant jurisdictions, or does it rely on a general formulation that may not clearly encompass all applicable local levies?",
+    "difficulty": "high"
+  },
+  {
+    "id": "SP-12",
+    "text": "What accounting standards govern the preparation of the closing financial statements used in the purchase price adjustment — does the agreement reference a specific national or international accounting framework?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SP-13",
+    "text": "What survival period applies to the tax representations, and how does the agreement allocate tax liability for a period that straddles the closing date?",
+    "difficulty": "high"
+  },
+  {
+    "id": "SP-14",
+    "text": "Does the anti-corruption representation cover only one jurisdiction's bribery legislation or does it extend to the anti-bribery laws of all jurisdictions in which the target operates, and does the representation cover conduct by agents and third-party intermediaries — not just direct employees?",
+    "difficulty": "high"
+  },
+  {
+    "id": "SP-15",
+    "text": "What are all three conditions in the purchase price formula that determine which valuation methodology applies, what are the exact numerical thresholds that trigger each condition, and in what currency are those thresholds expressed?",
+    "difficulty": "high"
+  },
+  {
+    "id": "SP-16",
+    "text": "What regulatory closing condition must be satisfied — is it clearance in the standard merger control sense, or is it framed as a regulatory body confirming satisfaction with this specific buyer?",
+    "difficulty": "high"
+  },
+  {
+    "id": "SP-17",
+    "text": "If the regulatory closing condition is not satisfied by the outside date, which parties have the right to terminate, is a break fee payable by either party, and does the agreement address what happens if the relevant regulator directs the seller to complete a sale to a different buyer instead?",
+    "difficulty": "high"
+  },
+  {
+    "id": "SP-18",
+    "text": "Does the obligation to operate the target business in the ordinary course between signing and closing contain a carve-out for actions required to comply with any regulatory order or monitoring requirement, and if so how is that carve-out defined?",
+    "difficulty": "high"
+  },
+  {
+    "id": "SP-19",
+    "text": "Which law governs the agreement, and does the agreement contain any provision acknowledging that obligations arising under a regulatory remedies order take precedence over the contractual terms in the event of a conflict?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "SP-20",
+    "text": "Does the seller make any representation that it has complied with its obligations under any regulatory order during the sale process, or that the business being sold corresponds to the business the regulator ordered to be divested?",
+    "difficulty": "high"
+  },
+  {
+    "id": "SP-21",
+    "text": "What specific indebtedness is disclosed in the disclosure schedule as an exception to the seller's indebtedness representation, and does the disclosed indebtedness include any obligations arising from insolvency proceedings referenced elsewhere in the schedule?",
+    "difficulty": "high"
+  },
+  {
+    "id": "SP-22",
+    "text": "What insider or related-party transactions are disclosed in the disclosure schedule as exceptions to the seller's related-party representation, and does the operative representation contain a carve-out for transactions conducted on arm's length terms?",
+    "difficulty": "high"
+  }
+]

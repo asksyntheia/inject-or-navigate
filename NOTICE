@@ -1,0 +1,19 @@
+Inject or Navigate? Token-Efficient Retrieval for LLM Analysis of
+Transactional Legal Documents
+Copyright (c) 2026 Syntheia Pty Ltd
+
+This repository is dual-licensed:
+
+  - Dataset (data/), prompts (prompts/), documentation, and the paper (paper/)
+    are licensed under Creative Commons Attribution 4.0 International
+    (CC BY 4.0); see LICENSE.
+
+  - Source code under harness/ is licensed under the MIT License;
+    see harness/LICENSE.
+
+Attribution for the CC BY 4.0 material:
+  Hany, ElSheraey, Said, and Naoum (Syntheia Pty Ltd), "Inject or Navigate?
+  Token-Efficient Retrieval for LLM Analysis of Transactional Legal Documents."
+
+The underlying documents referenced in data/sources.md are public filings
+owned by their respective filers and are not licensed by this work.

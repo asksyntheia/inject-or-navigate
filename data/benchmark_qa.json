@@ -1,0 +1,122 @@
+[
+  {
+    "id": "FA_fluor_facility_amendment_1.pdf_Q1",
+    "doc": "FA_fluor_amendment",
+    "text": "What is the total facility size of the revolving loan agreement that was amended, and who serves as the administrative agent for this facility?",
+    "answer": "$1,800,000,000; BNP Paribas serves as the Administrative Agent."
+  },
+  {
+    "id": "FA_fluor_facility_amendment_1.pdf_Q2",
+    "doc": "FA_fluor_amendment",
+    "text": "What is the maximum aggregate outstanding amount permitted for investments that are not otherwise covered by any other specific investment category listed in the agreement?",
+    "answer": "$25,000,000 at any time outstanding."
+  },
+  {
+    "id": "FA_fluor_facility_amendment_1.pdf_Q3",
+    "doc": "FA_fluor_amendment",
+    "text": "What is the minimum Tier 1 capital threshold that a commercial bank must hold in order to qualify under the permitted cash equivalent investments definition?",
+    "answer": "Not less than $10,000,000,000."
+  },
+  {
+    "id": "FA_generac_2024_amendment.pdf_Q1",
+    "doc": "FA_generac_amendment",
+    "text": "What cash payment was made at closing in connection with the 2024 term loan amendment, and what was the resulting aggregate outstanding principal amount of the new term loan on the closing date?",
+    "answer": "A $30 million cash payment was made at closing, resulting in an aggregate outstanding principal amount of $500 million on the closing date."
+  },
+  {
+    "id": "FA_generac_2024_amendment.pdf_Q2",
+    "doc": "FA_generac_amendment",
+    "text": "What is the maturity date established for the new term loan facility created under the 2024 amendment?",
+    "answer": "July 3, 2031."
+  },
+  {
+    "id": "FA_generac_2024_amendment.pdf_Q3",
+    "doc": "FA_generac_amendment",
+    "text": "What benchmark rate adjustment was eliminated as part of the 2024 term loan amendment, and what was the reason for its original inclusion?",
+    "answer": "A credit spread adjustment was eliminated; it had been associated with the transition from LIBOR to SOFR as the benchmark rate for the credit agreement."
+  },
+  {
+    "id": "LP_thomas_green_fund_lpa.pdf_Q1",
+    "doc": "LP_thomas_green",
+    "text": "What is the maximum aggregate amount of Capital Commitments that the limited partnership can accept without requiring approval from its advisory body, and what is the minimum Capital Commitment required per investor (absent a waiver)?",
+    "answer": "The partnership cannot accept subscriptions that would cause aggregate Capital Commitments to exceed $500 million without Advisory Committee approval. Each investor must make a minimum Capital Commitment of at least $10 million, though the General Partner may waive this requirement in its sole discretion."
+  },
+  {
+    "id": "LP_thomas_green_fund_lpa.pdf_Q2",
+    "doc": "LP_thomas_green",
+    "text": "In the context of the green certification strategy described in the investment policy, what specific certification level and energy label does the fund target for most of its properties, and what type of real estate assets does the fund invest in?",
+    "answer": "The fund targets a 'silver level' LEED certification and an Energy Star label (or substantial equivalent) for most properties. The fund invests in office buildings, mixed-use properties that are primarily office buildings, and multi-family residential properties in the United States, acquired through renovation of existing properties and development of new properties."
+  },
+  {
+    "id": "LP_thomas_green_fund_lpa.pdf_Q3",
+    "doc": "LP_thomas_green",
+    "text": "What percentage of the fund's aggregate Capital Commitments may be invested in multi-family residential properties, and what is the maximum debt-to-asset ratio the fund may carry before exceeding the leverage threshold defined in the agreement?",
+    "answer": "Not more than twenty percent (20%) of aggregate Capital Commitments may be invested in multi-family residential properties. The fund may not incur Indebtedness if it would cause aggregate outstanding Indebtedness to exceed seventy-five percent (75%) of the aggregate value of the Partnership's Investments (the 'Debt Limit')."
+  },
+  {
+    "id": "LP_carlyle_pe_partners_lpa.pdf_Q1",
+    "doc": "LP_carlyle",
+    "text": "What is the Incentive Allocation rate charged to Investor Units once Excess Profits exceed the Hurdle Amount and the 'catch-up' allocation to the General Partner is complete, and what is the annualized internal rate of return threshold that defines the Hurdle Amount?",
+    "answer": "Once the catch-up is complete, the Incentive Allocation is 12.5% of remaining Excess Profits. The Hurdle Amount is defined as the amount that results in a 5% annualized internal rate of return on the Net Asset Value of Investor Units outstanding at the beginning of the Reference Period and all Investor Units issued since then."
+  },
+  {
+    "id": "LP_carlyle_pe_partners_lpa.pdf_Q2",
+    "doc": "LP_carlyle",
+    "text": "What is the Early Redemption Deduction percentage applied to Investor Units redeemed before a specified minimum holding period, and what is that minimum holding period?",
+    "answer": "The Early Redemption Deduction is 5% of the Net Asset Value of the Investor Units being redeemed (calculated as of the Redemption Date), and it applies to Investor Units that have been outstanding for less than two (2) years."
+  },
+  {
+    "id": "LP_carlyle_pe_partners_lpa.pdf_Q3",
+    "doc": "LP_carlyle",
+    "text": "What leverage limit is set for recourse cash borrowings used to acquire investments, and under what specific condition is no remedial action required if that limit is exceeded?",
+    "answer": "The fund does not intend to have aggregate recourse indebtedness for borrowed money used for acquiring investments exceed 30% of the fund's total assets (the 'Leverage Target'). No remedial action is required if the Leverage Target is exceeded for any reason — the agreement expressly states there is no obligation to take corrective action in such event."
+  },
+  {
+    "id": "SP_first_avenue_networks_disclosure_schedule.pdf_Q1",
+    "doc": "SP_first_avenue",
+    "text": "What was the exact dollar amount of indebtedness reported as of a specific date in mid-December 2004, after it increased from its September 30 balance?",
+    "answer": "$14,313,868 as of December 14, 2004 (increased from the balance reflected in the September 30, 2004 balance sheet)."
+  },
+  {
+    "id": "SP_first_avenue_networks_disclosure_schedule.pdf_Q2",
+    "doc": "SP_first_avenue",
+    "text": "A board member of the company serves as a consultant to a specific investment entity that is both a major stockholder of the company and a majority stockholder of the target acquisition company. What approximate percentage of common stock does that investment entity and its affiliates own in the company?",
+    "answer": "Approximately 20% of the company's Common Stock. The board member is Neil Subin, and the investment entity is Aspen Partners – Series A."
+  },
+  {
+    "id": "SP_first_avenue_networks_disclosure_schedule.pdf_Q3",
+    "doc": "SP_first_avenue",
+    "text": "A company disclosed that it had accrued a specific dollar amount on its September 30, 2004 balance sheet to cover estimated exposure for certain unpaid tax claims arising from failures prior to bankruptcy. What was that accrued amount, and what were the two types of tax obligations involved?",
+    "answer": "The company accrued $3.8 million. The two types of tax obligations were: (1) failure to file personal property returns in various jurisdictions where the company had equipment, and (2) failure to pay use tax related to equipment purchased in 1997."
+  },
+  {
+    "id": "SP_meta_shutterstock_giphy_spa.pdf_Q1",
+    "doc": "SP_meta_giphy",
+    "text": "What is the exact aggregate purchase price for all outstanding equity interests in the target company being acquired, and what adjustment mechanism reduces that headline figure?",
+    "answer": "The aggregate purchase price is $128,000,000, reduced by the aggregate amount of Closing Date Debt set forth on the Closing Statement."
+  },
+  {
+    "id": "SP_meta_shutterstock_giphy_spa.pdf_Q2",
+    "doc": "SP_meta_giphy",
+    "text": "Under the employee retention condition required before the transaction can close, what is the minimum percentage of employees who received employment offers that must remain continuously employed through closing and become transferred employees?",
+    "answer": "No fewer than 20% of the Business Employees who have received offers of employment must have remained continuously employed or engaged from the date of the agreement through the Closing and become Transferred Employees."
+  },
+  {
+    "id": "SP_meta_shutterstock_giphy_spa.pdf_Q3",
+    "doc": "SP_meta_giphy",
+    "text": "What specific dollar amount is defined as the recapitalization amount to be funded by the seller at closing, and how is it calculated?",
+    "answer": "The Recapitalization Amount equals $75,000,000 less any Target Company Cash, and it is to be funded by the Seller (Meta Platforms) at the Closing by wire transfer to a bank account of the Target Company immediately prior to Closing."
+  },
+  {
+    "id": "out_of_scope_Q1",
+    "doc": "OOS",
+    "text": "Under the Basel III framework, what is the minimum Common Equity Tier 1 (CET1) capital ratio that internationally active banks are required to maintain?",
+    "answer": "Not applicable — this question is unrelated to either provided document. For reference, the Basel III framework requires a minimum CET1 ratio of 4.5% of risk-weighted assets, with an additional 2.5% capital conservation buffer, for a total of 7%."
+  },
+  {
+    "id": "out_of_scope_Q2",
+    "doc": "OOS",
+    "text": "Under the United States Uniform Limited Partnership Act, what is the default rule governing the liability of a limited partner who participates in the control of the partnership's business toward third parties who reasonably believed the limited partner was a general partner?",
+    "answer": "Not applicable — this question is not answered by either of the provided documents. It relates to the general statutory framework of the Uniform Limited Partnership Act (ULPA), which is a general legal question outside the scope of both partnership agreements reviewed."
+  }
+]

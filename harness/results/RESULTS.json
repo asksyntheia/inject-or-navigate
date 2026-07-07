@@ -1,0 +1,19 @@
+{
+  "note": "Recorded result of the public baseline retriever (fixed-size 512/64 chunks, all-MiniLM-L6-v2 cosine top-10, no rerank) run through the paper's evaluation protocol on the released 20-question set. This is a fully public baseline, NOT the paper's proprietary structure-aware pipeline (which is not included). Regenerate with the harness scripts; the paper's own RUN-012/RUN-009 numbers are reproduced here for reference only.",
+  "n": 20,
+  "public_baseline": {
+    "retriever": "all-MiniLM-L6-v2, fixed-size 512-token chunks / 64 overlap, cosine top-10, no rerank",
+    "ties": 17,
+    "inject_wins": 3,
+    "nav_wins": 0,
+    "acc_inject": "100%",
+    "acc_nav": "90%",
+    "footprint_reduction": "~24.9x",
+    "inject_tokens_per_q": 146308,
+    "nav_tokens_per_q": 5876
+  },
+  "paper_reported": {
+    "RUN-012_rerank": { "ties": 18, "inject": 2, "nav": 0, "red": "17.3x" },
+    "RUN-009_GTE": { "ties": 15, "inject": 4, "nav": 1, "red": "29.9x" }
+  }
+}
