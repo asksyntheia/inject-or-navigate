@@ -4,7 +4,7 @@
 
 [Mahmoud Hany](https://www.linkedin.com/in/mahmoud-hany-fathalla-6b1690219/), [Mourad ElSheraey](https://www.linkedin.com/in/mourad-elsheraey/), [Mahmoud Said](https://www.linkedin.com/in/mahsaid/), [Peter Naoum](https://www.linkedin.com/in/peternaoum/), *Syntheia Pty Ltd*
 
-📄 **Paper:** arXiv link coming soon; until then see [`paper/inject_or_navigate.pdf`](paper/inject_or_navigate.pdf).
+📄 **Paper:** [arXiv:2607.05764](https://arxiv.org/abs/2607.05764).
 
 > This repository is the companion dataset + evaluation harness for the paper.
 
@@ -39,7 +39,6 @@ uncertainty are quantified in Section 8.
 | [`data/`](data) | The scored benchmark: 20 questions with verified reference answers and document mapping (`benchmark_qa.json`), per-document [`sources.md`](data/sources.md), and the 52-question DocNavBench development set (`docnavbench_questions.json`) |
 | [`prompts/`](prompts) | The five system prompts used by the pipeline, verbatim from the paper appendix |
 | [`harness/`](harness) | A public, API-optional kit that runs the paper's **evaluation protocol** end-to-end with one public INJECT-vs-NAVEMBED baseline |
-| [`paper/`](paper) | The compiled paper PDF (placeholder until the arXiv link is live) |
 
 ## Dataset
 
@@ -125,7 +124,7 @@ his work on the document-index API and surrounding features.
 
 © Syntheia Pty Ltd, dual-licensed:
 
-- **Dataset, prompts, docs, and the paper** ([`data/`](data), [`prompts/`](prompts), [`paper/`](paper)): [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). Use freely with attribution.
+- **Dataset, prompts, and docs** ([`data/`](data), [`prompts/`](prompts)): [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). Use freely with attribution.
 - **Code** ([`harness/`](harness)): [MIT](harness/LICENSE).
 
 The underlying documents referenced in [`data/sources.md`](data/sources.md) are

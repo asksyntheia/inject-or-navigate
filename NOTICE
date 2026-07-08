@@ -4,8 +4,8 @@ Copyright (c) 2026 Syntheia Pty Ltd
 
 This repository is dual-licensed:
 
-  - Dataset (data/), prompts (prompts/), documentation, and the paper (paper/)
-    are licensed under Creative Commons Attribution 4.0 International
+  - Dataset (data/), prompts (prompts/), and documentation are licensed under
+    Creative Commons Attribution 4.0 International
     (CC BY 4.0); see LICENSE.
 
   - Source code under harness/ is licensed under the MIT License;
