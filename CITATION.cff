@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this dataset or harness, please cite the paper."
+title: "Inject or Navigate? Token-Efficient Retrieval for LLM Analysis of Transactional Legal Documents"
+authors:
+  - family-names: Hany
+    given-names: Mahmoud
+  - family-names: ElSheraey
+    given-names: Mourad
+  - family-names: Said
+    given-names: Mahmoud
+  - family-names: Naoum
+    given-names: Peter
+license:
+  - CC-BY-4.0
+  - MIT
+url: "https://github.com/asksyntheia/inject-or-navigate"
+identifiers:
+  - type: other
+    value: "arXiv:2607.05764"
+    description: The arXiv preprint
+preferred-citation:
+  type: article
+  title: "Inject or Navigate? Token-Efficient Retrieval for LLM Analysis of Transactional Legal Documents"
+  authors:
+    - family-names: Hany
+      given-names: Mahmoud
+    - family-names: ElSheraey
+      given-names: Mourad
+    - family-names: Said
+      given-names: Mahmoud
+    - family-names: Naoum
+      given-names: Peter
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2607.05764"
+      description: The arXiv preprint
+  url: "https://arxiv.org/abs/2607.05764"
