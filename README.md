@@ -120,6 +120,21 @@ benchmark's reference answers against the source documents, and to
 [Mahmoud Abdallah](https://www.linkedin.com/in/mahmoud-abdallah-59929b142/) for
 his work on the document-index API and surrounding features.
 
+## Citation
+
+If you use this dataset or harness, please cite the paper:
+
+```bibtex
+@misc{hany2026inject,
+  title         = {Inject or Navigate? Token-Efficient Retrieval for LLM Analysis of Transactional Legal Documents},
+  author        = {Hany, Mahmoud and ElSheraey, Mourad and Said, Mahmoud and Naoum, Peter},
+  year          = {2026},
+  eprint        = {2607.05764},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL}
+}
+```
+
 ## License
 
 © Syntheia Pty Ltd, dual-licensed:
